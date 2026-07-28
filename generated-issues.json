@@ -1,0 +1,1691 @@
+[
+  {
+    "title": "Improve: Contract: Implement access control guards for admin functions",
+    "body": "## Description\nImplement comprehensive access control guards for all admin functions in Soroban contracts.\n\n## Acceptance Criteria\n- [ ] All admin functions protected with proper guards\n- [ ] Role-based access control enforced\n- [ ] Tests cover authorization scenarios\n- [ ] Documentation updated\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-5sk9c34jl",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Contract: Implement access control guards for admin functions",
+    "body": "## Description\nImplement comprehensive access control guards for all admin functions in Soroban contracts.\n\n## Acceptance Criteria\n- [ ] All admin functions protected with proper guards\n- [ ] Role-based access control enforced\n- [ ] Tests cover authorization scenarios\n- [ ] Documentation updated\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-64x11h8yg",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Contract: Implement access control guards for admin functions",
+    "body": "## Description\nImplement comprehensive access control guards for all admin functions in Soroban contracts.\n\n## Acceptance Criteria\n- [ ] All admin functions protected with proper guards\n- [ ] Role-based access control enforced\n- [ ] Tests cover authorization scenarios\n- [ ] Documentation updated\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-4drjmsdzv",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Contract: Implement access control guards for admin functions",
+    "body": "## Description\nImplement comprehensive access control guards for all admin functions in Soroban contracts.\n\n## Acceptance Criteria\n- [ ] All admin functions protected with proper guards\n- [ ] Role-based access control enforced\n- [ ] Tests cover authorization scenarios\n- [ ] Documentation updated\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-32o7zzkzi",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Contract: Implement access control guards for admin functions",
+    "body": "## Description\nImplement comprehensive access control guards for all admin functions in Soroban contracts.\n\n## Acceptance Criteria\n- [ ] All admin functions protected with proper guards\n- [ ] Role-based access control enforced\n- [ ] Tests cover authorization scenarios\n- [ ] Documentation updated\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-d7uimm105",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Contract: Implement access control guards for admin functions",
+    "body": "## Description\nImplement comprehensive access control guards for all admin functions in Soroban contracts.\n\n## Acceptance Criteria\n- [ ] All admin functions protected with proper guards\n- [ ] Role-based access control enforced\n- [ ] Tests cover authorization scenarios\n- [ ] Documentation updated\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-tqq7mvbi8",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Contract: Optimize gas consumption in batch operations",
+    "body": "## Description\nProfile and optimize gas usage in batch credit operations to reduce costs.\n\n## Acceptance Criteria\n- [ ] Gas usage profiled for all batch operations\n- [ ] Optimizations implemented (target: 20% reduction)\n- [ ] Benchmarks documented\n- [ ] No functionality loss\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973704-75d8ck3vm",
+    "labels": [
+      "smart-contracts",
+      "performance",
+      "optimization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Contract: Optimize gas consumption in batch operations",
+    "body": "## Description\nProfile and optimize gas usage in batch credit operations to reduce costs.\n\n## Acceptance Criteria\n- [ ] Gas usage profiled for all batch operations\n- [ ] Optimizations implemented (target: 20% reduction)\n- [ ] Benchmarks documented\n- [ ] No functionality loss\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-57e9vjivz",
+    "labels": [
+      "smart-contracts",
+      "performance",
+      "optimization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Contract: Optimize gas consumption in batch operations",
+    "body": "## Description\nProfile and optimize gas usage in batch credit operations to reduce costs.\n\n## Acceptance Criteria\n- [ ] Gas usage profiled for all batch operations\n- [ ] Optimizations implemented (target: 20% reduction)\n- [ ] Benchmarks documented\n- [ ] No functionality loss\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-4fjh7n036",
+    "labels": [
+      "smart-contracts",
+      "performance",
+      "optimization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Contract: Optimize gas consumption in batch operations",
+    "body": "## Description\nProfile and optimize gas usage in batch credit operations to reduce costs.\n\n## Acceptance Criteria\n- [ ] Gas usage profiled for all batch operations\n- [ ] Optimizations implemented (target: 20% reduction)\n- [ ] Benchmarks documented\n- [ ] No functionality loss\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-dqv7mro0w",
+    "labels": [
+      "smart-contracts",
+      "performance",
+      "optimization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Contract: Optimize gas consumption in batch operations",
+    "body": "## Description\nProfile and optimize gas usage in batch credit operations to reduce costs.\n\n## Acceptance Criteria\n- [ ] Gas usage profiled for all batch operations\n- [ ] Optimizations implemented (target: 20% reduction)\n- [ ] Benchmarks documented\n- [ ] No functionality loss\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-uxfj2ajiy",
+    "labels": [
+      "smart-contracts",
+      "performance",
+      "optimization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Contract: Optimize gas consumption in batch operations",
+    "body": "## Description\nProfile and optimize gas usage in batch credit operations to reduce costs.\n\n## Acceptance Criteria\n- [ ] Gas usage profiled for all batch operations\n- [ ] Optimizations implemented (target: 20% reduction)\n- [ ] Benchmarks documented\n- [ ] No functionality loss\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-5kl24gmt9",
+    "labels": [
+      "smart-contracts",
+      "performance",
+      "optimization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Contract: Add event logging for all state mutations",
+    "body": "## Description\nAdd comprehensive event logging for audit trail and debugging.\n\n## Acceptance Criteria\n- [ ] Events emitted for all state mutations\n- [ ] Event data includes context (who, when, what, why)\n- [ ] Indexed properly for efficient querying\n- [ ] Tests verify event emission\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-wdb8e1t9e",
+    "labels": [
+      "smart-contracts",
+      "observability",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Enhance: Contract: Add event logging for all state mutations",
+    "body": "## Description\nAdd comprehensive event logging for audit trail and debugging.\n\n## Acceptance Criteria\n- [ ] Events emitted for all state mutations\n- [ ] Event data includes context (who, when, what, why)\n- [ ] Indexed properly for efficient querying\n- [ ] Tests verify event emission\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-2wb98rdyz",
+    "labels": [
+      "smart-contracts",
+      "observability",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Optimize: Contract: Add event logging for all state mutations",
+    "body": "## Description\nAdd comprehensive event logging for audit trail and debugging.\n\n## Acceptance Criteria\n- [ ] Events emitted for all state mutations\n- [ ] Event data includes context (who, when, what, why)\n- [ ] Indexed properly for efficient querying\n- [ ] Tests verify event emission\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-c25r5kd2i",
+    "labels": [
+      "smart-contracts",
+      "observability",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Refactor: Contract: Add event logging for all state mutations",
+    "body": "## Description\nAdd comprehensive event logging for audit trail and debugging.\n\n## Acceptance Criteria\n- [ ] Events emitted for all state mutations\n- [ ] Event data includes context (who, when, what, why)\n- [ ] Indexed properly for efficient querying\n- [ ] Tests verify event emission\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-vmz905ssq",
+    "labels": [
+      "smart-contracts",
+      "observability",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Review: Contract: Add event logging for all state mutations",
+    "body": "## Description\nAdd comprehensive event logging for audit trail and debugging.\n\n## Acceptance Criteria\n- [ ] Events emitted for all state mutations\n- [ ] Event data includes context (who, when, what, why)\n- [ ] Indexed properly for efficient querying\n- [ ] Tests verify event emission\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-48wimx4sw",
+    "labels": [
+      "smart-contracts",
+      "observability",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Strengthen: Contract: Add event logging for all state mutations",
+    "body": "## Description\nAdd comprehensive event logging for audit trail and debugging.\n\n## Acceptance Criteria\n- [ ] Events emitted for all state mutations\n- [ ] Event data includes context (who, when, what, why)\n- [ ] Indexed properly for efficient querying\n- [ ] Tests verify event emission\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-4enah3nsq",
+    "labels": [
+      "smart-contracts",
+      "observability",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Improve: Contract: Implement reentrancy guards for critical functions",
+    "body": "## Description\nAdd reentrancy protection for all functions that interact with other contracts.\n\n## Acceptance Criteria\n- [ ] Reentrancy guard implemented\n- [ ] Test for reentrancy attack scenarios\n- [ ] Lock/unlock mechanism verified\n- [ ] Documentation of guard logic\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-one4gnl0l",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "critical"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Contract: Implement reentrancy guards for critical functions",
+    "body": "## Description\nAdd reentrancy protection for all functions that interact with other contracts.\n\n## Acceptance Criteria\n- [ ] Reentrancy guard implemented\n- [ ] Test for reentrancy attack scenarios\n- [ ] Lock/unlock mechanism verified\n- [ ] Documentation of guard logic\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-g0v96c90v",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "critical"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Contract: Implement reentrancy guards for critical functions",
+    "body": "## Description\nAdd reentrancy protection for all functions that interact with other contracts.\n\n## Acceptance Criteria\n- [ ] Reentrancy guard implemented\n- [ ] Test for reentrancy attack scenarios\n- [ ] Lock/unlock mechanism verified\n- [ ] Documentation of guard logic\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-uwlsj4bsw",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "critical"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Contract: Implement reentrancy guards for critical functions",
+    "body": "## Description\nAdd reentrancy protection for all functions that interact with other contracts.\n\n## Acceptance Criteria\n- [ ] Reentrancy guard implemented\n- [ ] Test for reentrancy attack scenarios\n- [ ] Lock/unlock mechanism verified\n- [ ] Documentation of guard logic\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-vmlbrro9j",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "critical"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Contract: Implement reentrancy guards for critical functions",
+    "body": "## Description\nAdd reentrancy protection for all functions that interact with other contracts.\n\n## Acceptance Criteria\n- [ ] Reentrancy guard implemented\n- [ ] Test for reentrancy attack scenarios\n- [ ] Lock/unlock mechanism verified\n- [ ] Documentation of guard logic\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-twn0jhm84",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "critical"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Contract: Implement reentrancy guards for critical functions",
+    "body": "## Description\nAdd reentrancy protection for all functions that interact with other contracts.\n\n## Acceptance Criteria\n- [ ] Reentrancy guard implemented\n- [ ] Test for reentrancy attack scenarios\n- [ ] Lock/unlock mechanism verified\n- [ ] Documentation of guard logic\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-1zel7y0c0",
+    "labels": [
+      "smart-contracts",
+      "security",
+      "critical"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Contract: Add storage versioning for future upgrades",
+    "body": "## Description\nImplement storage versioning scheme to support contract upgrades.\n\n## Acceptance Criteria\n- [ ] Version tracking in storage\n- [ ] Migration logic for upgrades\n- [ ] Backward compatibility maintained\n- [ ] Tests for version transitions\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-d4x7e1ovr",
+    "labels": [
+      "smart-contracts",
+      "architecture",
+      "future-work"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Contract: Add storage versioning for future upgrades",
+    "body": "## Description\nImplement storage versioning scheme to support contract upgrades.\n\n## Acceptance Criteria\n- [ ] Version tracking in storage\n- [ ] Migration logic for upgrades\n- [ ] Backward compatibility maintained\n- [ ] Tests for version transitions\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-spi484b07",
+    "labels": [
+      "smart-contracts",
+      "architecture",
+      "future-work"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Contract: Add storage versioning for future upgrades",
+    "body": "## Description\nImplement storage versioning scheme to support contract upgrades.\n\n## Acceptance Criteria\n- [ ] Version tracking in storage\n- [ ] Migration logic for upgrades\n- [ ] Backward compatibility maintained\n- [ ] Tests for version transitions\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-7poufsb66",
+    "labels": [
+      "smart-contracts",
+      "architecture",
+      "future-work"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Contract: Add storage versioning for future upgrades",
+    "body": "## Description\nImplement storage versioning scheme to support contract upgrades.\n\n## Acceptance Criteria\n- [ ] Version tracking in storage\n- [ ] Migration logic for upgrades\n- [ ] Backward compatibility maintained\n- [ ] Tests for version transitions\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-fat794ps3",
+    "labels": [
+      "smart-contracts",
+      "architecture",
+      "future-work"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Contract: Add storage versioning for future upgrades",
+    "body": "## Description\nImplement storage versioning scheme to support contract upgrades.\n\n## Acceptance Criteria\n- [ ] Version tracking in storage\n- [ ] Migration logic for upgrades\n- [ ] Backward compatibility maintained\n- [ ] Tests for version transitions\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-non6q1nfz",
+    "labels": [
+      "smart-contracts",
+      "architecture",
+      "future-work"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Contract: Add storage versioning for future upgrades",
+    "body": "## Description\nImplement storage versioning scheme to support contract upgrades.\n\n## Acceptance Criteria\n- [ ] Version tracking in storage\n- [ ] Migration logic for upgrades\n- [ ] Backward compatibility maintained\n- [ ] Tests for version transitions\n\n---\n**Category**: Smart Contracts\n**Issue ID**: 1785011973705-8fkhj9eqy",
+    "labels": [
+      "smart-contracts",
+      "architecture",
+      "future-work"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Test: Add property-based tests for serial number generation",
+    "body": "## Description\nImplement property-based testing for serial number uniqueness and distribution.\n\n## Acceptance Criteria\n- [ ] Property tests using proptest\n- [ ] 10k+ iterations without collision\n- [ ] Edge cases at u64 boundaries\n- [ ] Coverage >95%\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-7njyijwkx",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Test: Add property-based tests for serial number generation",
+    "body": "## Description\nImplement property-based testing for serial number uniqueness and distribution.\n\n## Acceptance Criteria\n- [ ] Property tests using proptest\n- [ ] 10k+ iterations without collision\n- [ ] Edge cases at u64 boundaries\n- [ ] Coverage >95%\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-3jdkt1uty",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Test: Add property-based tests for serial number generation",
+    "body": "## Description\nImplement property-based testing for serial number uniqueness and distribution.\n\n## Acceptance Criteria\n- [ ] Property tests using proptest\n- [ ] 10k+ iterations without collision\n- [ ] Edge cases at u64 boundaries\n- [ ] Coverage >95%\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-vkpeimdv1",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Test: Add property-based tests for serial number generation",
+    "body": "## Description\nImplement property-based testing for serial number uniqueness and distribution.\n\n## Acceptance Criteria\n- [ ] Property tests using proptest\n- [ ] 10k+ iterations without collision\n- [ ] Edge cases at u64 boundaries\n- [ ] Coverage >95%\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-28lfsubxv",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Test: Add property-based tests for serial number generation",
+    "body": "## Description\nImplement property-based testing for serial number uniqueness and distribution.\n\n## Acceptance Criteria\n- [ ] Property tests using proptest\n- [ ] 10k+ iterations without collision\n- [ ] Edge cases at u64 boundaries\n- [ ] Coverage >95%\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-eqerf651k",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Test: Add property-based tests for serial number generation",
+    "body": "## Description\nImplement property-based testing for serial number uniqueness and distribution.\n\n## Acceptance Criteria\n- [ ] Property tests using proptest\n- [ ] 10k+ iterations without collision\n- [ ] Edge cases at u64 boundaries\n- [ ] Coverage >95%\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-n1nrowg2i",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Test: Implement end-to-end marketplace flow tests",
+    "body": "## Description\nCreate comprehensive E2E tests for complete marketplace workflows.\n\n## Acceptance Criteria\n- [ ] Tests for: list→purchase→retire→verify flow\n- [ ] Concurrent transaction handling\n- [ ] Error scenarios covered\n- [ ] Performance benchmarks included\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-4yvg8v6uh",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "end-to-end"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Test: Implement end-to-end marketplace flow tests",
+    "body": "## Description\nCreate comprehensive E2E tests for complete marketplace workflows.\n\n## Acceptance Criteria\n- [ ] Tests for: list→purchase→retire→verify flow\n- [ ] Concurrent transaction handling\n- [ ] Error scenarios covered\n- [ ] Performance benchmarks included\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-z7r3t15tu",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "end-to-end"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Test: Implement end-to-end marketplace flow tests",
+    "body": "## Description\nCreate comprehensive E2E tests for complete marketplace workflows.\n\n## Acceptance Criteria\n- [ ] Tests for: list→purchase→retire→verify flow\n- [ ] Concurrent transaction handling\n- [ ] Error scenarios covered\n- [ ] Performance benchmarks included\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-6lq0h9dd6",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "end-to-end"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Test: Implement end-to-end marketplace flow tests",
+    "body": "## Description\nCreate comprehensive E2E tests for complete marketplace workflows.\n\n## Acceptance Criteria\n- [ ] Tests for: list→purchase→retire→verify flow\n- [ ] Concurrent transaction handling\n- [ ] Error scenarios covered\n- [ ] Performance benchmarks included\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-xrshdv7h8",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "end-to-end"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Test: Implement end-to-end marketplace flow tests",
+    "body": "## Description\nCreate comprehensive E2E tests for complete marketplace workflows.\n\n## Acceptance Criteria\n- [ ] Tests for: list→purchase→retire→verify flow\n- [ ] Concurrent transaction handling\n- [ ] Error scenarios covered\n- [ ] Performance benchmarks included\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-pg0jnc85d",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "end-to-end"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Test: Implement end-to-end marketplace flow tests",
+    "body": "## Description\nCreate comprehensive E2E tests for complete marketplace workflows.\n\n## Acceptance Criteria\n- [ ] Tests for: list→purchase→retire→verify flow\n- [ ] Concurrent transaction handling\n- [ ] Error scenarios covered\n- [ ] Performance benchmarks included\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-bal6xrzxy",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "end-to-end"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Test: Add integration tests for multi-contract interactions",
+    "body": "## Description\nTest interactions between registry, credit, marketplace, and oracle contracts.\n\n## Acceptance Criteria\n- [ ] Cross-contract call sequences\n- [ ] State consistency verified\n- [ ] ≥20 integration scenarios\n- [ ] CI integration complete\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-l86pissn3",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Test: Add integration tests for multi-contract interactions",
+    "body": "## Description\nTest interactions between registry, credit, marketplace, and oracle contracts.\n\n## Acceptance Criteria\n- [ ] Cross-contract call sequences\n- [ ] State consistency verified\n- [ ] ≥20 integration scenarios\n- [ ] CI integration complete\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-pnzkb1tee",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Test: Add integration tests for multi-contract interactions",
+    "body": "## Description\nTest interactions between registry, credit, marketplace, and oracle contracts.\n\n## Acceptance Criteria\n- [ ] Cross-contract call sequences\n- [ ] State consistency verified\n- [ ] ≥20 integration scenarios\n- [ ] CI integration complete\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-zfdtfpgoo",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Test: Add integration tests for multi-contract interactions",
+    "body": "## Description\nTest interactions between registry, credit, marketplace, and oracle contracts.\n\n## Acceptance Criteria\n- [ ] Cross-contract call sequences\n- [ ] State consistency verified\n- [ ] ≥20 integration scenarios\n- [ ] CI integration complete\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-r7gk0htoo",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Test: Add integration tests for multi-contract interactions",
+    "body": "## Description\nTest interactions between registry, credit, marketplace, and oracle contracts.\n\n## Acceptance Criteria\n- [ ] Cross-contract call sequences\n- [ ] State consistency verified\n- [ ] ≥20 integration scenarios\n- [ ] CI integration complete\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-hmctig5nb",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Test: Add integration tests for multi-contract interactions",
+    "body": "## Description\nTest interactions between registry, credit, marketplace, and oracle contracts.\n\n## Acceptance Criteria\n- [ ] Cross-contract call sequences\n- [ ] State consistency verified\n- [ ] ≥20 integration scenarios\n- [ ] CI integration complete\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-8k5h4vhet",
+    "labels": [
+      "testing",
+      "quality-assurance",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Test: Build load testing framework for contract scaling",
+    "body": "## Description\nCreate load tests to measure contract throughput and identify bottlenecks.\n\n## Acceptance Criteria\n- [ ] 1000+ concurrent users simulated\n- [ ] Latency/throughput/gas measured\n- [ ] Bottlenecks identified\n- [ ] Recommendations documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-kbdune7ys",
+    "labels": [
+      "testing",
+      "performance",
+      "scalability"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Test: Build load testing framework for contract scaling",
+    "body": "## Description\nCreate load tests to measure contract throughput and identify bottlenecks.\n\n## Acceptance Criteria\n- [ ] 1000+ concurrent users simulated\n- [ ] Latency/throughput/gas measured\n- [ ] Bottlenecks identified\n- [ ] Recommendations documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-5d2wjfgoo",
+    "labels": [
+      "testing",
+      "performance",
+      "scalability"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Test: Build load testing framework for contract scaling",
+    "body": "## Description\nCreate load tests to measure contract throughput and identify bottlenecks.\n\n## Acceptance Criteria\n- [ ] 1000+ concurrent users simulated\n- [ ] Latency/throughput/gas measured\n- [ ] Bottlenecks identified\n- [ ] Recommendations documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-a18zu5dlw",
+    "labels": [
+      "testing",
+      "performance",
+      "scalability"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Test: Build load testing framework for contract scaling",
+    "body": "## Description\nCreate load tests to measure contract throughput and identify bottlenecks.\n\n## Acceptance Criteria\n- [ ] 1000+ concurrent users simulated\n- [ ] Latency/throughput/gas measured\n- [ ] Bottlenecks identified\n- [ ] Recommendations documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-kl1bl1afw",
+    "labels": [
+      "testing",
+      "performance",
+      "scalability"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Test: Build load testing framework for contract scaling",
+    "body": "## Description\nCreate load tests to measure contract throughput and identify bottlenecks.\n\n## Acceptance Criteria\n- [ ] 1000+ concurrent users simulated\n- [ ] Latency/throughput/gas measured\n- [ ] Bottlenecks identified\n- [ ] Recommendations documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-ftohnaxsi",
+    "labels": [
+      "testing",
+      "performance",
+      "scalability"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Test: Build load testing framework for contract scaling",
+    "body": "## Description\nCreate load tests to measure contract throughput and identify bottlenecks.\n\n## Acceptance Criteria\n- [ ] 1000+ concurrent users simulated\n- [ ] Latency/throughput/gas measured\n- [ ] Bottlenecks identified\n- [ ] Recommendations documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-wyn8rdbtm",
+    "labels": [
+      "testing",
+      "performance",
+      "scalability"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Test: Create fuzz testing harness for invariant verification",
+    "body": "## Description\nImplement fuzzing to verify critical invariants hold under random operations.\n\n## Acceptance Criteria\n- [ ] Fuzz harness for 50k+ iterations\n- [ ] Critical invariants defined\n- [ ] No counterexamples found\n- [ ] Results documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-e1lhu93tu",
+    "labels": [
+      "testing",
+      "security",
+      "formal-verification"
+    ],
+    "complexity": "very-high"
+  },
+  {
+    "title": "Enhance: Test: Create fuzz testing harness for invariant verification",
+    "body": "## Description\nImplement fuzzing to verify critical invariants hold under random operations.\n\n## Acceptance Criteria\n- [ ] Fuzz harness for 50k+ iterations\n- [ ] Critical invariants defined\n- [ ] No counterexamples found\n- [ ] Results documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-9tjjjk679",
+    "labels": [
+      "testing",
+      "security",
+      "formal-verification"
+    ],
+    "complexity": "very-high"
+  },
+  {
+    "title": "Optimize: Test: Create fuzz testing harness for invariant verification",
+    "body": "## Description\nImplement fuzzing to verify critical invariants hold under random operations.\n\n## Acceptance Criteria\n- [ ] Fuzz harness for 50k+ iterations\n- [ ] Critical invariants defined\n- [ ] No counterexamples found\n- [ ] Results documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-9knmgxpfo",
+    "labels": [
+      "testing",
+      "security",
+      "formal-verification"
+    ],
+    "complexity": "very-high"
+  },
+  {
+    "title": "Refactor: Test: Create fuzz testing harness for invariant verification",
+    "body": "## Description\nImplement fuzzing to verify critical invariants hold under random operations.\n\n## Acceptance Criteria\n- [ ] Fuzz harness for 50k+ iterations\n- [ ] Critical invariants defined\n- [ ] No counterexamples found\n- [ ] Results documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-br41qms7c",
+    "labels": [
+      "testing",
+      "security",
+      "formal-verification"
+    ],
+    "complexity": "very-high"
+  },
+  {
+    "title": "Review: Test: Create fuzz testing harness for invariant verification",
+    "body": "## Description\nImplement fuzzing to verify critical invariants hold under random operations.\n\n## Acceptance Criteria\n- [ ] Fuzz harness for 50k+ iterations\n- [ ] Critical invariants defined\n- [ ] No counterexamples found\n- [ ] Results documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-wfka1rap3",
+    "labels": [
+      "testing",
+      "security",
+      "formal-verification"
+    ],
+    "complexity": "very-high"
+  },
+  {
+    "title": "Strengthen: Test: Create fuzz testing harness for invariant verification",
+    "body": "## Description\nImplement fuzzing to verify critical invariants hold under random operations.\n\n## Acceptance Criteria\n- [ ] Fuzz harness for 50k+ iterations\n- [ ] Critical invariants defined\n- [ ] No counterexamples found\n- [ ] Results documented\n\n---\n**Category**: Testing\n**Issue ID**: 1785011973705-pos5s7534",
+    "labels": [
+      "testing",
+      "security",
+      "formal-verification"
+    ],
+    "complexity": "very-high"
+  },
+  {
+    "title": "Improve: Frontend: Implement dark mode support across all pages",
+    "body": "## Description\nAdd dark mode theme to improve accessibility and user preference support.\n\n## Acceptance Criteria\n- [ ] Dark mode colors defined\n- [ ] All components support theme\n- [ ] User preference persisted\n- [ ] System theme detection\n- [ ] Tests for both themes\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-dzq0cg2vp",
+    "labels": [
+      "frontend",
+      "ux",
+      "accessibility",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Enhance: Frontend: Implement dark mode support across all pages",
+    "body": "## Description\nAdd dark mode theme to improve accessibility and user preference support.\n\n## Acceptance Criteria\n- [ ] Dark mode colors defined\n- [ ] All components support theme\n- [ ] User preference persisted\n- [ ] System theme detection\n- [ ] Tests for both themes\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-cliomqhlb",
+    "labels": [
+      "frontend",
+      "ux",
+      "accessibility",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Optimize: Frontend: Implement dark mode support across all pages",
+    "body": "## Description\nAdd dark mode theme to improve accessibility and user preference support.\n\n## Acceptance Criteria\n- [ ] Dark mode colors defined\n- [ ] All components support theme\n- [ ] User preference persisted\n- [ ] System theme detection\n- [ ] Tests for both themes\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-fl2f6zosg",
+    "labels": [
+      "frontend",
+      "ux",
+      "accessibility",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Refactor: Frontend: Implement dark mode support across all pages",
+    "body": "## Description\nAdd dark mode theme to improve accessibility and user preference support.\n\n## Acceptance Criteria\n- [ ] Dark mode colors defined\n- [ ] All components support theme\n- [ ] User preference persisted\n- [ ] System theme detection\n- [ ] Tests for both themes\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-a85ffpo5l",
+    "labels": [
+      "frontend",
+      "ux",
+      "accessibility",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Review: Frontend: Implement dark mode support across all pages",
+    "body": "## Description\nAdd dark mode theme to improve accessibility and user preference support.\n\n## Acceptance Criteria\n- [ ] Dark mode colors defined\n- [ ] All components support theme\n- [ ] User preference persisted\n- [ ] System theme detection\n- [ ] Tests for both themes\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-40miub9yx",
+    "labels": [
+      "frontend",
+      "ux",
+      "accessibility",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Strengthen: Frontend: Implement dark mode support across all pages",
+    "body": "## Description\nAdd dark mode theme to improve accessibility and user preference support.\n\n## Acceptance Criteria\n- [ ] Dark mode colors defined\n- [ ] All components support theme\n- [ ] User preference persisted\n- [ ] System theme detection\n- [ ] Tests for both themes\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-35lu4tdtn",
+    "labels": [
+      "frontend",
+      "ux",
+      "accessibility",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Improve: Frontend: Add real-time marketplace price updates via WebSocket",
+    "body": "## Description\nImplement WebSocket connection for live price and listing updates.\n\n## Acceptance Criteria\n- [ ] WebSocket endpoint connected\n- [ ] Live updates in UI\n- [ ] Graceful fallback to polling\n- [ ] Memory leak prevention\n- [ ] Tests with 1000+ concurrent connections\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-0931vz4t4",
+    "labels": [
+      "frontend",
+      "real-time",
+      "performance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Frontend: Add real-time marketplace price updates via WebSocket",
+    "body": "## Description\nImplement WebSocket connection for live price and listing updates.\n\n## Acceptance Criteria\n- [ ] WebSocket endpoint connected\n- [ ] Live updates in UI\n- [ ] Graceful fallback to polling\n- [ ] Memory leak prevention\n- [ ] Tests with 1000+ concurrent connections\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-p62wdf31s",
+    "labels": [
+      "frontend",
+      "real-time",
+      "performance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Frontend: Add real-time marketplace price updates via WebSocket",
+    "body": "## Description\nImplement WebSocket connection for live price and listing updates.\n\n## Acceptance Criteria\n- [ ] WebSocket endpoint connected\n- [ ] Live updates in UI\n- [ ] Graceful fallback to polling\n- [ ] Memory leak prevention\n- [ ] Tests with 1000+ concurrent connections\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-e3esgqg7q",
+    "labels": [
+      "frontend",
+      "real-time",
+      "performance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Frontend: Add real-time marketplace price updates via WebSocket",
+    "body": "## Description\nImplement WebSocket connection for live price and listing updates.\n\n## Acceptance Criteria\n- [ ] WebSocket endpoint connected\n- [ ] Live updates in UI\n- [ ] Graceful fallback to polling\n- [ ] Memory leak prevention\n- [ ] Tests with 1000+ concurrent connections\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-6dmrnn9rl",
+    "labels": [
+      "frontend",
+      "real-time",
+      "performance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Frontend: Add real-time marketplace price updates via WebSocket",
+    "body": "## Description\nImplement WebSocket connection for live price and listing updates.\n\n## Acceptance Criteria\n- [ ] WebSocket endpoint connected\n- [ ] Live updates in UI\n- [ ] Graceful fallback to polling\n- [ ] Memory leak prevention\n- [ ] Tests with 1000+ concurrent connections\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-yojqzlg2y",
+    "labels": [
+      "frontend",
+      "real-time",
+      "performance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Frontend: Add real-time marketplace price updates via WebSocket",
+    "body": "## Description\nImplement WebSocket connection for live price and listing updates.\n\n## Acceptance Criteria\n- [ ] WebSocket endpoint connected\n- [ ] Live updates in UI\n- [ ] Graceful fallback to polling\n- [ ] Memory leak prevention\n- [ ] Tests with 1000+ concurrent connections\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-beylf6me1",
+    "labels": [
+      "frontend",
+      "real-time",
+      "performance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Frontend: Create offline-first retirement workflow",
+    "body": "## Description\nSupport retirement operations while offline with background sync.\n\n## Acceptance Criteria\n- [ ] IndexedDB for offline storage\n- [ ] Service worker background sync\n- [ ] Conflict resolution UI\n- [ ] Retry with exponential backoff\n- [ ] Offline status indicator\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-g2hbckfeh",
+    "labels": [
+      "frontend",
+      "offline-first",
+      "sync"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Frontend: Create offline-first retirement workflow",
+    "body": "## Description\nSupport retirement operations while offline with background sync.\n\n## Acceptance Criteria\n- [ ] IndexedDB for offline storage\n- [ ] Service worker background sync\n- [ ] Conflict resolution UI\n- [ ] Retry with exponential backoff\n- [ ] Offline status indicator\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-dcq56tcfw",
+    "labels": [
+      "frontend",
+      "offline-first",
+      "sync"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Frontend: Create offline-first retirement workflow",
+    "body": "## Description\nSupport retirement operations while offline with background sync.\n\n## Acceptance Criteria\n- [ ] IndexedDB for offline storage\n- [ ] Service worker background sync\n- [ ] Conflict resolution UI\n- [ ] Retry with exponential backoff\n- [ ] Offline status indicator\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-o8nea00e9",
+    "labels": [
+      "frontend",
+      "offline-first",
+      "sync"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Frontend: Create offline-first retirement workflow",
+    "body": "## Description\nSupport retirement operations while offline with background sync.\n\n## Acceptance Criteria\n- [ ] IndexedDB for offline storage\n- [ ] Service worker background sync\n- [ ] Conflict resolution UI\n- [ ] Retry with exponential backoff\n- [ ] Offline status indicator\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-30iqephb6",
+    "labels": [
+      "frontend",
+      "offline-first",
+      "sync"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Frontend: Create offline-first retirement workflow",
+    "body": "## Description\nSupport retirement operations while offline with background sync.\n\n## Acceptance Criteria\n- [ ] IndexedDB for offline storage\n- [ ] Service worker background sync\n- [ ] Conflict resolution UI\n- [ ] Retry with exponential backoff\n- [ ] Offline status indicator\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-z4usq4pff",
+    "labels": [
+      "frontend",
+      "offline-first",
+      "sync"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Frontend: Create offline-first retirement workflow",
+    "body": "## Description\nSupport retirement operations while offline with background sync.\n\n## Acceptance Criteria\n- [ ] IndexedDB for offline storage\n- [ ] Service worker background sync\n- [ ] Conflict resolution UI\n- [ ] Retry with exponential backoff\n- [ ] Offline status indicator\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-pcz5lcqu6",
+    "labels": [
+      "frontend",
+      "offline-first",
+      "sync"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Frontend: Implement WCAG 2.1 AA accessibility compliance",
+    "body": "## Description\nAudit and fix accessibility issues to meet WCAG 2.1 AA standards.\n\n## Acceptance Criteria\n- [ ] Automated a11y tests (Lighthouse, axe)\n- [ ] Manual screen reader testing\n- [ ] Keyboard navigation throughout\n- [ ] Color contrast ≥4.5:1\n- [ ] Semantic HTML all pages\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-5qr4hvl78",
+    "labels": [
+      "frontend",
+      "accessibility",
+      "wcag"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Frontend: Implement WCAG 2.1 AA accessibility compliance",
+    "body": "## Description\nAudit and fix accessibility issues to meet WCAG 2.1 AA standards.\n\n## Acceptance Criteria\n- [ ] Automated a11y tests (Lighthouse, axe)\n- [ ] Manual screen reader testing\n- [ ] Keyboard navigation throughout\n- [ ] Color contrast ≥4.5:1\n- [ ] Semantic HTML all pages\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-0lw5x6i28",
+    "labels": [
+      "frontend",
+      "accessibility",
+      "wcag"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Frontend: Implement WCAG 2.1 AA accessibility compliance",
+    "body": "## Description\nAudit and fix accessibility issues to meet WCAG 2.1 AA standards.\n\n## Acceptance Criteria\n- [ ] Automated a11y tests (Lighthouse, axe)\n- [ ] Manual screen reader testing\n- [ ] Keyboard navigation throughout\n- [ ] Color contrast ≥4.5:1\n- [ ] Semantic HTML all pages\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-sfiuw6pc2",
+    "labels": [
+      "frontend",
+      "accessibility",
+      "wcag"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Frontend: Implement WCAG 2.1 AA accessibility compliance",
+    "body": "## Description\nAudit and fix accessibility issues to meet WCAG 2.1 AA standards.\n\n## Acceptance Criteria\n- [ ] Automated a11y tests (Lighthouse, axe)\n- [ ] Manual screen reader testing\n- [ ] Keyboard navigation throughout\n- [ ] Color contrast ≥4.5:1\n- [ ] Semantic HTML all pages\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-mgru9r0p9",
+    "labels": [
+      "frontend",
+      "accessibility",
+      "wcag"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Frontend: Implement WCAG 2.1 AA accessibility compliance",
+    "body": "## Description\nAudit and fix accessibility issues to meet WCAG 2.1 AA standards.\n\n## Acceptance Criteria\n- [ ] Automated a11y tests (Lighthouse, axe)\n- [ ] Manual screen reader testing\n- [ ] Keyboard navigation throughout\n- [ ] Color contrast ≥4.5:1\n- [ ] Semantic HTML all pages\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-ds61wn5gd",
+    "labels": [
+      "frontend",
+      "accessibility",
+      "wcag"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Frontend: Implement WCAG 2.1 AA accessibility compliance",
+    "body": "## Description\nAudit and fix accessibility issues to meet WCAG 2.1 AA standards.\n\n## Acceptance Criteria\n- [ ] Automated a11y tests (Lighthouse, axe)\n- [ ] Manual screen reader testing\n- [ ] Keyboard navigation throughout\n- [ ] Color contrast ≥4.5:1\n- [ ] Semantic HTML all pages\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-zqkb0d9mq",
+    "labels": [
+      "frontend",
+      "accessibility",
+      "wcag"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Frontend: Build interactive contract visualization dashboard",
+    "body": "## Description\nCreate dashboard visualizing contract state, serial registry, and marketplace activity.\n\n## Acceptance Criteria\n- [ ] Contract state displayed\n- [ ] Real-time activity feed\n- [ ] Charts for credits/retirements/pricing\n- [ ] Filters and time-range selection\n- [ ] Performance <1s load time\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-7uzpe37tt",
+    "labels": [
+      "frontend",
+      "dashboard",
+      "visualization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Frontend: Build interactive contract visualization dashboard",
+    "body": "## Description\nCreate dashboard visualizing contract state, serial registry, and marketplace activity.\n\n## Acceptance Criteria\n- [ ] Contract state displayed\n- [ ] Real-time activity feed\n- [ ] Charts for credits/retirements/pricing\n- [ ] Filters and time-range selection\n- [ ] Performance <1s load time\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-o52d0j4nb",
+    "labels": [
+      "frontend",
+      "dashboard",
+      "visualization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Frontend: Build interactive contract visualization dashboard",
+    "body": "## Description\nCreate dashboard visualizing contract state, serial registry, and marketplace activity.\n\n## Acceptance Criteria\n- [ ] Contract state displayed\n- [ ] Real-time activity feed\n- [ ] Charts for credits/retirements/pricing\n- [ ] Filters and time-range selection\n- [ ] Performance <1s load time\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-os47gtm5o",
+    "labels": [
+      "frontend",
+      "dashboard",
+      "visualization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Frontend: Build interactive contract visualization dashboard",
+    "body": "## Description\nCreate dashboard visualizing contract state, serial registry, and marketplace activity.\n\n## Acceptance Criteria\n- [ ] Contract state displayed\n- [ ] Real-time activity feed\n- [ ] Charts for credits/retirements/pricing\n- [ ] Filters and time-range selection\n- [ ] Performance <1s load time\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-fyt73m8t7",
+    "labels": [
+      "frontend",
+      "dashboard",
+      "visualization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Frontend: Build interactive contract visualization dashboard",
+    "body": "## Description\nCreate dashboard visualizing contract state, serial registry, and marketplace activity.\n\n## Acceptance Criteria\n- [ ] Contract state displayed\n- [ ] Real-time activity feed\n- [ ] Charts for credits/retirements/pricing\n- [ ] Filters and time-range selection\n- [ ] Performance <1s load time\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-5347uhmlc",
+    "labels": [
+      "frontend",
+      "dashboard",
+      "visualization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Frontend: Build interactive contract visualization dashboard",
+    "body": "## Description\nCreate dashboard visualizing contract state, serial registry, and marketplace activity.\n\n## Acceptance Criteria\n- [ ] Contract state displayed\n- [ ] Real-time activity feed\n- [ ] Charts for credits/retirements/pricing\n- [ ] Filters and time-range selection\n- [ ] Performance <1s load time\n\n---\n**Category**: Frontend\n**Issue ID**: 1785011973705-x99otshed",
+    "labels": [
+      "frontend",
+      "dashboard",
+      "visualization"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Backend: Implement request idempotency for retirement endpoint",
+    "body": "## Description\nAdd idempotent retirement requests to prevent duplicate burns.\n\n## Acceptance Criteria\n- [ ] Request deduplication via hash\n- [ ] Cached responses (TTL ≥24h)\n- [ ] Tests for duplicates/TTL-expiry\n- [ ] Metrics for cache hits/misses\n- [ ] No double-burns under concurrency\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-27gbp1g0h",
+    "labels": [
+      "backend",
+      "idempotency",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Backend: Implement request idempotency for retirement endpoint",
+    "body": "## Description\nAdd idempotent retirement requests to prevent duplicate burns.\n\n## Acceptance Criteria\n- [ ] Request deduplication via hash\n- [ ] Cached responses (TTL ≥24h)\n- [ ] Tests for duplicates/TTL-expiry\n- [ ] Metrics for cache hits/misses\n- [ ] No double-burns under concurrency\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-0083i8q08",
+    "labels": [
+      "backend",
+      "idempotency",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Backend: Implement request idempotency for retirement endpoint",
+    "body": "## Description\nAdd idempotent retirement requests to prevent duplicate burns.\n\n## Acceptance Criteria\n- [ ] Request deduplication via hash\n- [ ] Cached responses (TTL ≥24h)\n- [ ] Tests for duplicates/TTL-expiry\n- [ ] Metrics for cache hits/misses\n- [ ] No double-burns under concurrency\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-e5ibuikq2",
+    "labels": [
+      "backend",
+      "idempotency",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Backend: Implement request idempotency for retirement endpoint",
+    "body": "## Description\nAdd idempotent retirement requests to prevent duplicate burns.\n\n## Acceptance Criteria\n- [ ] Request deduplication via hash\n- [ ] Cached responses (TTL ≥24h)\n- [ ] Tests for duplicates/TTL-expiry\n- [ ] Metrics for cache hits/misses\n- [ ] No double-burns under concurrency\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-08gbfo5hm",
+    "labels": [
+      "backend",
+      "idempotency",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Backend: Implement request idempotency for retirement endpoint",
+    "body": "## Description\nAdd idempotent retirement requests to prevent duplicate burns.\n\n## Acceptance Criteria\n- [ ] Request deduplication via hash\n- [ ] Cached responses (TTL ≥24h)\n- [ ] Tests for duplicates/TTL-expiry\n- [ ] Metrics for cache hits/misses\n- [ ] No double-burns under concurrency\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-cxybqpnk6",
+    "labels": [
+      "backend",
+      "idempotency",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Backend: Implement request idempotency for retirement endpoint",
+    "body": "## Description\nAdd idempotent retirement requests to prevent duplicate burns.\n\n## Acceptance Criteria\n- [ ] Request deduplication via hash\n- [ ] Cached responses (TTL ≥24h)\n- [ ] Tests for duplicates/TTL-expiry\n- [ ] Metrics for cache hits/misses\n- [ ] No double-burns under concurrency\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-jf831m9tc",
+    "labels": [
+      "backend",
+      "idempotency",
+      "good-first-issue"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Backend: Add three-tier rate limiting with quota management",
+    "body": "## Description\nImplement per-user, per-project, and per-IP rate limiting.\n\n## Acceptance Criteria\n- [ ] Rate limits: 100/min (user), 1000/hr (project), 10/sec (IP)\n- [ ] 429 responses with retry-after header\n- [ ] Redis sorted-set sliding windows\n- [ ] Metrics and abuse pattern detection\n- [ ] Tests for quota exhaustion\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-kssgkzq2k",
+    "labels": [
+      "backend",
+      "security",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Backend: Add three-tier rate limiting with quota management",
+    "body": "## Description\nImplement per-user, per-project, and per-IP rate limiting.\n\n## Acceptance Criteria\n- [ ] Rate limits: 100/min (user), 1000/hr (project), 10/sec (IP)\n- [ ] 429 responses with retry-after header\n- [ ] Redis sorted-set sliding windows\n- [ ] Metrics and abuse pattern detection\n- [ ] Tests for quota exhaustion\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-45t4l0dmd",
+    "labels": [
+      "backend",
+      "security",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Backend: Add three-tier rate limiting with quota management",
+    "body": "## Description\nImplement per-user, per-project, and per-IP rate limiting.\n\n## Acceptance Criteria\n- [ ] Rate limits: 100/min (user), 1000/hr (project), 10/sec (IP)\n- [ ] 429 responses with retry-after header\n- [ ] Redis sorted-set sliding windows\n- [ ] Metrics and abuse pattern detection\n- [ ] Tests for quota exhaustion\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-fjqby8le1",
+    "labels": [
+      "backend",
+      "security",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Backend: Add three-tier rate limiting with quota management",
+    "body": "## Description\nImplement per-user, per-project, and per-IP rate limiting.\n\n## Acceptance Criteria\n- [ ] Rate limits: 100/min (user), 1000/hr (project), 10/sec (IP)\n- [ ] 429 responses with retry-after header\n- [ ] Redis sorted-set sliding windows\n- [ ] Metrics and abuse pattern detection\n- [ ] Tests for quota exhaustion\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-no3zbpzel",
+    "labels": [
+      "backend",
+      "security",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Backend: Add three-tier rate limiting with quota management",
+    "body": "## Description\nImplement per-user, per-project, and per-IP rate limiting.\n\n## Acceptance Criteria\n- [ ] Rate limits: 100/min (user), 1000/hr (project), 10/sec (IP)\n- [ ] 429 responses with retry-after header\n- [ ] Redis sorted-set sliding windows\n- [ ] Metrics and abuse pattern detection\n- [ ] Tests for quota exhaustion\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-7soxoo3e0",
+    "labels": [
+      "backend",
+      "security",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Backend: Add three-tier rate limiting with quota management",
+    "body": "## Description\nImplement per-user, per-project, and per-IP rate limiting.\n\n## Acceptance Criteria\n- [ ] Rate limits: 100/min (user), 1000/hr (project), 10/sec (IP)\n- [ ] 429 responses with retry-after header\n- [ ] Redis sorted-set sliding windows\n- [ ] Metrics and abuse pattern detection\n- [ ] Tests for quota exhaustion\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-a95qs2c4d",
+    "labels": [
+      "backend",
+      "security",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Backend: Build event sourcing system for audit trail",
+    "body": "## Description\nImplement immutable event store for all state mutations.\n\n## Acceptance Criteria\n- [ ] Event types: Minted, Retired, Transferred, Suspended\n- [ ] Event replay reconstructs state\n- [ ] Snapshots for performance\n- [ ] API for event history\n- [ ] 100% mutation coverage\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-bohyaffyw",
+    "labels": [
+      "backend",
+      "architecture",
+      "auditing"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Backend: Build event sourcing system for audit trail",
+    "body": "## Description\nImplement immutable event store for all state mutations.\n\n## Acceptance Criteria\n- [ ] Event types: Minted, Retired, Transferred, Suspended\n- [ ] Event replay reconstructs state\n- [ ] Snapshots for performance\n- [ ] API for event history\n- [ ] 100% mutation coverage\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-1ycq1z16l",
+    "labels": [
+      "backend",
+      "architecture",
+      "auditing"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Backend: Build event sourcing system for audit trail",
+    "body": "## Description\nImplement immutable event store for all state mutations.\n\n## Acceptance Criteria\n- [ ] Event types: Minted, Retired, Transferred, Suspended\n- [ ] Event replay reconstructs state\n- [ ] Snapshots for performance\n- [ ] API for event history\n- [ ] 100% mutation coverage\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-b88o3qfef",
+    "labels": [
+      "backend",
+      "architecture",
+      "auditing"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Backend: Build event sourcing system for audit trail",
+    "body": "## Description\nImplement immutable event store for all state mutations.\n\n## Acceptance Criteria\n- [ ] Event types: Minted, Retired, Transferred, Suspended\n- [ ] Event replay reconstructs state\n- [ ] Snapshots for performance\n- [ ] API for event history\n- [ ] 100% mutation coverage\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-zk7kvaifl",
+    "labels": [
+      "backend",
+      "architecture",
+      "auditing"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Backend: Build event sourcing system for audit trail",
+    "body": "## Description\nImplement immutable event store for all state mutations.\n\n## Acceptance Criteria\n- [ ] Event types: Minted, Retired, Transferred, Suspended\n- [ ] Event replay reconstructs state\n- [ ] Snapshots for performance\n- [ ] API for event history\n- [ ] 100% mutation coverage\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-1ulvwsya5",
+    "labels": [
+      "backend",
+      "architecture",
+      "auditing"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Backend: Build event sourcing system for audit trail",
+    "body": "## Description\nImplement immutable event store for all state mutations.\n\n## Acceptance Criteria\n- [ ] Event types: Minted, Retired, Transferred, Suspended\n- [ ] Event replay reconstructs state\n- [ ] Snapshots for performance\n- [ ] API for event history\n- [ ] 100% mutation coverage\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-69zzbmemh",
+    "labels": [
+      "backend",
+      "architecture",
+      "auditing"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Backend: Implement circuit breaker for price feed resilience",
+    "body": "## Description\nAdd circuit breaker pattern with fallback pricing.\n\n## Acceptance Criteria\n- [ ] Opens after 5 failures\n- [ ] Fallback uses cached price + time-decay\n- [ ] Closes after 1 min success\n- [ ] Metrics track state transitions\n- [ ] Tests simulating failures/recovery\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-66xuadp5j",
+    "labels": [
+      "backend",
+      "resilience",
+      "error-handling"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Backend: Implement circuit breaker for price feed resilience",
+    "body": "## Description\nAdd circuit breaker pattern with fallback pricing.\n\n## Acceptance Criteria\n- [ ] Opens after 5 failures\n- [ ] Fallback uses cached price + time-decay\n- [ ] Closes after 1 min success\n- [ ] Metrics track state transitions\n- [ ] Tests simulating failures/recovery\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-4frjcv0sb",
+    "labels": [
+      "backend",
+      "resilience",
+      "error-handling"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Backend: Implement circuit breaker for price feed resilience",
+    "body": "## Description\nAdd circuit breaker pattern with fallback pricing.\n\n## Acceptance Criteria\n- [ ] Opens after 5 failures\n- [ ] Fallback uses cached price + time-decay\n- [ ] Closes after 1 min success\n- [ ] Metrics track state transitions\n- [ ] Tests simulating failures/recovery\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-o4sq9k7vv",
+    "labels": [
+      "backend",
+      "resilience",
+      "error-handling"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Backend: Implement circuit breaker for price feed resilience",
+    "body": "## Description\nAdd circuit breaker pattern with fallback pricing.\n\n## Acceptance Criteria\n- [ ] Opens after 5 failures\n- [ ] Fallback uses cached price + time-decay\n- [ ] Closes after 1 min success\n- [ ] Metrics track state transitions\n- [ ] Tests simulating failures/recovery\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-pbmqcvf30",
+    "labels": [
+      "backend",
+      "resilience",
+      "error-handling"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Backend: Implement circuit breaker for price feed resilience",
+    "body": "## Description\nAdd circuit breaker pattern with fallback pricing.\n\n## Acceptance Criteria\n- [ ] Opens after 5 failures\n- [ ] Fallback uses cached price + time-decay\n- [ ] Closes after 1 min success\n- [ ] Metrics track state transitions\n- [ ] Tests simulating failures/recovery\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-eymy8f4hh",
+    "labels": [
+      "backend",
+      "resilience",
+      "error-handling"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Strengthen: Backend: Implement circuit breaker for price feed resilience",
+    "body": "## Description\nAdd circuit breaker pattern with fallback pricing.\n\n## Acceptance Criteria\n- [ ] Opens after 5 failures\n- [ ] Fallback uses cached price + time-decay\n- [ ] Closes after 1 min success\n- [ ] Metrics track state transitions\n- [ ] Tests simulating failures/recovery\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-qi7a274om",
+    "labels": [
+      "backend",
+      "resilience",
+      "error-handling"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Backend: Create comprehensive monitoring dashboard with Prometheus/Grafana",
+    "body": "## Description\nMonitor contract health, API performance, and system metrics.\n\n## Acceptance Criteria\n- [ ] Prometheus metrics exposed\n- [ ] Grafana dashboard with 5+ panels\n- [ ] Alerts for anomalies\n- [ ] Success rate, latency, gas costs\n- [ ] Test harness verifies metrics\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-9ell99dvc",
+    "labels": [
+      "backend",
+      "monitoring",
+      "devops"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Backend: Create comprehensive monitoring dashboard with Prometheus/Grafana",
+    "body": "## Description\nMonitor contract health, API performance, and system metrics.\n\n## Acceptance Criteria\n- [ ] Prometheus metrics exposed\n- [ ] Grafana dashboard with 5+ panels\n- [ ] Alerts for anomalies\n- [ ] Success rate, latency, gas costs\n- [ ] Test harness verifies metrics\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-14v8bvhv5",
+    "labels": [
+      "backend",
+      "monitoring",
+      "devops"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Backend: Create comprehensive monitoring dashboard with Prometheus/Grafana",
+    "body": "## Description\nMonitor contract health, API performance, and system metrics.\n\n## Acceptance Criteria\n- [ ] Prometheus metrics exposed\n- [ ] Grafana dashboard with 5+ panels\n- [ ] Alerts for anomalies\n- [ ] Success rate, latency, gas costs\n- [ ] Test harness verifies metrics\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-n2dul0cc1",
+    "labels": [
+      "backend",
+      "monitoring",
+      "devops"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Refactor: Backend: Create comprehensive monitoring dashboard with Prometheus/Grafana",
+    "body": "## Description\nMonitor contract health, API performance, and system metrics.\n\n## Acceptance Criteria\n- [ ] Prometheus metrics exposed\n- [ ] Grafana dashboard with 5+ panels\n- [ ] Alerts for anomalies\n- [ ] Success rate, latency, gas costs\n- [ ] Test harness verifies metrics\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-pxq3o26r1",
+    "labels": [
+      "backend",
+      "monitoring",
+      "devops"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Review: Backend: Create comprehensive monitoring dashboard with Prometheus/Grafana",
+    "body": "## Description\nMonitor contract health, API performance, and system metrics.\n\n## Acceptance Criteria\n- [ ] Prometheus metrics exposed\n- [ ] Grafana dashboard with 5+ panels\n- [ ] Alerts for anomalies\n- [ ] Success rate, latency, gas costs\n- [ ] Test harness verifies metrics\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-i89nt506s",
+    "labels": [
+      "backend",
+      "monitoring",
+      "devops"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Strengthen: Backend: Create comprehensive monitoring dashboard with Prometheus/Grafana",
+    "body": "## Description\nMonitor contract health, API performance, and system metrics.\n\n## Acceptance Criteria\n- [ ] Prometheus metrics exposed\n- [ ] Grafana dashboard with 5+ panels\n- [ ] Alerts for anomalies\n- [ ] Success rate, latency, gas costs\n- [ ] Test harness verifies metrics\n\n---\n**Category**: Backend\n**Issue ID**: 1785011973706-8s3uv9x20",
+    "labels": [
+      "backend",
+      "monitoring",
+      "devops"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: DevOps: Optimize Dockerfile with multi-stage builds",
+    "body": "## Description\nReduce backend Docker image size and improve layer caching.\n\n## Acceptance Criteria\n- [ ] Multi-stage build implemented\n- [ ] Final image <500MB\n- [ ] Build time <2min\n- [ ] Layer caching optimized\n- [ ] Security scanning passes\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-2zu7yr2di",
+    "labels": [
+      "devops",
+      "docker",
+      "performance",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Enhance: DevOps: Optimize Dockerfile with multi-stage builds",
+    "body": "## Description\nReduce backend Docker image size and improve layer caching.\n\n## Acceptance Criteria\n- [ ] Multi-stage build implemented\n- [ ] Final image <500MB\n- [ ] Build time <2min\n- [ ] Layer caching optimized\n- [ ] Security scanning passes\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-6kl9fog9p",
+    "labels": [
+      "devops",
+      "docker",
+      "performance",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Optimize: DevOps: Optimize Dockerfile with multi-stage builds",
+    "body": "## Description\nReduce backend Docker image size and improve layer caching.\n\n## Acceptance Criteria\n- [ ] Multi-stage build implemented\n- [ ] Final image <500MB\n- [ ] Build time <2min\n- [ ] Layer caching optimized\n- [ ] Security scanning passes\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-c15j1eso2",
+    "labels": [
+      "devops",
+      "docker",
+      "performance",
+      "good-first-issue"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Improve: DevOps: Implement GitHub Actions CI/CD pipeline",
+    "body": "## Description\nBuild automated testing and deployment workflow.\n\n## Acceptance Criteria\n- [ ] Unit/integration/E2E tests run\n- [ ] Linting checks enforced\n- [ ] Contracts deployed to testnet\n- [ ] Coverage reports generated\n- [ ] Notifications on failure\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-72uudzsld",
+    "labels": [
+      "devops",
+      "ci-cd",
+      "automation"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: DevOps: Implement GitHub Actions CI/CD pipeline",
+    "body": "## Description\nBuild automated testing and deployment workflow.\n\n## Acceptance Criteria\n- [ ] Unit/integration/E2E tests run\n- [ ] Linting checks enforced\n- [ ] Contracts deployed to testnet\n- [ ] Coverage reports generated\n- [ ] Notifications on failure\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-kf3ii7q6f",
+    "labels": [
+      "devops",
+      "ci-cd",
+      "automation"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: DevOps: Implement GitHub Actions CI/CD pipeline",
+    "body": "## Description\nBuild automated testing and deployment workflow.\n\n## Acceptance Criteria\n- [ ] Unit/integration/E2E tests run\n- [ ] Linting checks enforced\n- [ ] Contracts deployed to testnet\n- [ ] Coverage reports generated\n- [ ] Notifications on failure\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-8xfirm163",
+    "labels": [
+      "devops",
+      "ci-cd",
+      "automation"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: DevOps: Create Helm charts for Kubernetes deployment",
+    "body": "## Description\nPackage application for Kubernetes with auto-scaling.\n\n## Acceptance Criteria\n- [ ] Helm charts for backend, DB, Redis\n- [ ] Ingress configuration\n- [ ] Resource limits defined\n- [ ] HPA for auto-scaling\n- [ ] Tested on k3s/EKS\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-xa158z9p5",
+    "labels": [
+      "devops",
+      "kubernetes",
+      "infrastructure"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: DevOps: Create Helm charts for Kubernetes deployment",
+    "body": "## Description\nPackage application for Kubernetes with auto-scaling.\n\n## Acceptance Criteria\n- [ ] Helm charts for backend, DB, Redis\n- [ ] Ingress configuration\n- [ ] Resource limits defined\n- [ ] HPA for auto-scaling\n- [ ] Tested on k3s/EKS\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-lwxggfxue",
+    "labels": [
+      "devops",
+      "kubernetes",
+      "infrastructure"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: DevOps: Create Helm charts for Kubernetes deployment",
+    "body": "## Description\nPackage application for Kubernetes with auto-scaling.\n\n## Acceptance Criteria\n- [ ] Helm charts for backend, DB, Redis\n- [ ] Ingress configuration\n- [ ] Resource limits defined\n- [ ] HPA for auto-scaling\n- [ ] Tested on k3s/EKS\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-jpn1zonkh",
+    "labels": [
+      "devops",
+      "kubernetes",
+      "infrastructure"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: DevOps: Implement Terraform infrastructure as code",
+    "body": "## Description\nAutomate AWS infrastructure provisioning.\n\n## Acceptance Criteria\n- [ ] VPC, RDS, ElastiCache, ALB defined\n- [ ] Modular structure\n- [ ] Environments: dev, staging, prod\n- [ ] Remote state configured\n- [ ] Tested with terraform plan\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-av91ensz6",
+    "labels": [
+      "devops",
+      "infrastructure",
+      "terraform"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: DevOps: Implement Terraform infrastructure as code",
+    "body": "## Description\nAutomate AWS infrastructure provisioning.\n\n## Acceptance Criteria\n- [ ] VPC, RDS, ElastiCache, ALB defined\n- [ ] Modular structure\n- [ ] Environments: dev, staging, prod\n- [ ] Remote state configured\n- [ ] Tested with terraform plan\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-vn0c5cknj",
+    "labels": [
+      "devops",
+      "infrastructure",
+      "terraform"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: DevOps: Implement Terraform infrastructure as code",
+    "body": "## Description\nAutomate AWS infrastructure provisioning.\n\n## Acceptance Criteria\n- [ ] VPC, RDS, ElastiCache, ALB defined\n- [ ] Modular structure\n- [ ] Environments: dev, staging, prod\n- [ ] Remote state configured\n- [ ] Tested with terraform plan\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-hcjavbpg9",
+    "labels": [
+      "devops",
+      "infrastructure",
+      "terraform"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: DevOps: Set up distributed tracing with Jaeger/Datadog",
+    "body": "## Description\nImplement end-to-end request tracing across all layers.\n\n## Acceptance Criteria\n- [ ] Correlation IDs propagated\n- [ ] Traces from contracts, backend, frontend\n- [ ] Latency percentiles tracked\n- [ ] Alert rules for slow traces\n- [ ] Dashboard visualizes traces\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-pdfc7usou",
+    "labels": [
+      "devops",
+      "observability",
+      "monitoring"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: DevOps: Set up distributed tracing with Jaeger/Datadog",
+    "body": "## Description\nImplement end-to-end request tracing across all layers.\n\n## Acceptance Criteria\n- [ ] Correlation IDs propagated\n- [ ] Traces from contracts, backend, frontend\n- [ ] Latency percentiles tracked\n- [ ] Alert rules for slow traces\n- [ ] Dashboard visualizes traces\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-ojbcucx0j",
+    "labels": [
+      "devops",
+      "observability",
+      "monitoring"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: DevOps: Set up distributed tracing with Jaeger/Datadog",
+    "body": "## Description\nImplement end-to-end request tracing across all layers.\n\n## Acceptance Criteria\n- [ ] Correlation IDs propagated\n- [ ] Traces from contracts, backend, frontend\n- [ ] Latency percentiles tracked\n- [ ] Alert rules for slow traces\n- [ ] Dashboard visualizes traces\n\n---\n**Category**: DevOps\n**Issue ID**: 1785011973706-oxyy4fu2a",
+    "labels": [
+      "devops",
+      "observability",
+      "monitoring"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Bug: Fix race condition in parallel credit transfers",
+    "body": "## Description\nConcurrent transfers to same recipient causing inconsistent state.\n\n## Reproduction Steps\n1. Transfer credits from A to C concurrently from B and D\n2. Check C's balance\n3. Inconsistency observed\n\n## Expected Behavior\nTransfers atomic, consistent state\n\n## Actual Behavior\nBalance incorrect\n\n## Acceptance Criteria\n- [ ] Race condition identified and fixed\n- [ ] Concurrent transfer test passes\n- [ ] No balanceChanges during transfer\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-g291qc8hl",
+    "labels": [
+      "bug",
+      "critical",
+      "backend"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Bug: Fix race condition in parallel credit transfers",
+    "body": "## Description\nConcurrent transfers to same recipient causing inconsistent state.\n\n## Reproduction Steps\n1. Transfer credits from A to C concurrently from B and D\n2. Check C's balance\n3. Inconsistency observed\n\n## Expected Behavior\nTransfers atomic, consistent state\n\n## Actual Behavior\nBalance incorrect\n\n## Acceptance Criteria\n- [ ] Race condition identified and fixed\n- [ ] Concurrent transfer test passes\n- [ ] No balanceChanges during transfer\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-3gnkkzq2o",
+    "labels": [
+      "bug",
+      "critical",
+      "backend"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Bug: Fix race condition in parallel credit transfers",
+    "body": "## Description\nConcurrent transfers to same recipient causing inconsistent state.\n\n## Reproduction Steps\n1. Transfer credits from A to C concurrently from B and D\n2. Check C's balance\n3. Inconsistency observed\n\n## Expected Behavior\nTransfers atomic, consistent state\n\n## Actual Behavior\nBalance incorrect\n\n## Acceptance Criteria\n- [ ] Race condition identified and fixed\n- [ ] Concurrent transfer test passes\n- [ ] No balanceChanges during transfer\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-pn8kw9nqi",
+    "labels": [
+      "bug",
+      "critical",
+      "backend"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Bug: Memory leak in WebSocket connection handling",
+    "body": "## Description\nWebSocket connections not properly cleaned up, causing memory growth.\n\n## Environment\n- Frontend with real-time updates enabled\n- Long-running session (>1 hour)\n\n## Expected Behavior\nStable memory usage\n\n## Actual Behavior\nMemory increases ~50MB per hour\n\n## Acceptance Criteria\n- [ ] Connections properly unsubscribed\n- [ ] Test for memory stability\n- [ ] Profiling shows no leaks\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-y1746fkyb",
+    "labels": [
+      "bug",
+      "frontend",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Bug: Memory leak in WebSocket connection handling",
+    "body": "## Description\nWebSocket connections not properly cleaned up, causing memory growth.\n\n## Environment\n- Frontend with real-time updates enabled\n- Long-running session (>1 hour)\n\n## Expected Behavior\nStable memory usage\n\n## Actual Behavior\nMemory increases ~50MB per hour\n\n## Acceptance Criteria\n- [ ] Connections properly unsubscribed\n- [ ] Test for memory stability\n- [ ] Profiling shows no leaks\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-hudt1at51",
+    "labels": [
+      "bug",
+      "frontend",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Bug: Memory leak in WebSocket connection handling",
+    "body": "## Description\nWebSocket connections not properly cleaned up, causing memory growth.\n\n## Environment\n- Frontend with real-time updates enabled\n- Long-running session (>1 hour)\n\n## Expected Behavior\nStable memory usage\n\n## Actual Behavior\nMemory increases ~50MB per hour\n\n## Acceptance Criteria\n- [ ] Connections properly unsubscribed\n- [ ] Test for memory stability\n- [ ] Profiling shows no leaks\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-8ndb2r2s0",
+    "labels": [
+      "bug",
+      "frontend",
+      "performance"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Bug: Retry logic exponential backoff not resetting",
+    "body": "## Description\nAfter first failure, retry backoff doesn't reset on success.\n\n## Expected Behavior\nReset backoff timer on successful retry\n\n## Actual Behavior\nContinues with exponential backoff\n\n## Acceptance Criteria\n- [ ] Backoff resets on success\n- [ ] Test for reset behavior\n- [ ] No unnecessary delays\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-i099j1eny",
+    "labels": [
+      "bug",
+      "backend",
+      "error-handling"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Enhance: Bug: Retry logic exponential backoff not resetting",
+    "body": "## Description\nAfter first failure, retry backoff doesn't reset on success.\n\n## Expected Behavior\nReset backoff timer on successful retry\n\n## Actual Behavior\nContinues with exponential backoff\n\n## Acceptance Criteria\n- [ ] Backoff resets on success\n- [ ] Test for reset behavior\n- [ ] No unnecessary delays\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-oyai2gzdx",
+    "labels": [
+      "bug",
+      "backend",
+      "error-handling"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Optimize: Bug: Retry logic exponential backoff not resetting",
+    "body": "## Description\nAfter first failure, retry backoff doesn't reset on success.\n\n## Expected Behavior\nReset backoff timer on successful retry\n\n## Actual Behavior\nContinues with exponential backoff\n\n## Acceptance Criteria\n- [ ] Backoff resets on success\n- [ ] Test for reset behavior\n- [ ] No unnecessary delays\n\n---\n**Category**: Bug Fixes\n**Issue ID**: 1785011973706-81tb8i176",
+    "labels": [
+      "bug",
+      "backend",
+      "error-handling"
+    ],
+    "complexity": "low"
+  },
+  {
+    "title": "Improve: Feature: Multi-signature approval for large credit transfers",
+    "body": "## Description\nRequire multi-sig approval for transfers >$100k equivalent.\n\n## Acceptance Criteria\n- [ ] Threshold configurable\n- [ ] M-of-N signature scheme\n- [ ] Signers defined per project\n- [ ] Pending approval workflow\n- [ ] Time lock (24-48hr) enforced\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-rzz18tips",
+    "labels": [
+      "feature",
+      "security",
+      "governance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Feature: Multi-signature approval for large credit transfers",
+    "body": "## Description\nRequire multi-sig approval for transfers >$100k equivalent.\n\n## Acceptance Criteria\n- [ ] Threshold configurable\n- [ ] M-of-N signature scheme\n- [ ] Signers defined per project\n- [ ] Pending approval workflow\n- [ ] Time lock (24-48hr) enforced\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-6ovr2fysd",
+    "labels": [
+      "feature",
+      "security",
+      "governance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Feature: Multi-signature approval for large credit transfers",
+    "body": "## Description\nRequire multi-sig approval for transfers >$100k equivalent.\n\n## Acceptance Criteria\n- [ ] Threshold configurable\n- [ ] M-of-N signature scheme\n- [ ] Signers defined per project\n- [ ] Pending approval workflow\n- [ ] Time lock (24-48hr) enforced\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-fqkshkrv6",
+    "labels": [
+      "feature",
+      "security",
+      "governance"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Feature: Automated credit retirement scheduling",
+    "body": "## Description\nSchedule automatic retirement of credits at future date.\n\n## Acceptance Criteria\n- [ ] Schedule UI in dashboard\n- [ ] Recurring or one-time options\n- [ ] Confirmation email sent\n- [ ] Status tracked in history\n- [ ] Cancellation allowed before execution\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-4lodumroi",
+    "labels": [
+      "feature",
+      "frontend",
+      "automation"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Feature: Automated credit retirement scheduling",
+    "body": "## Description\nSchedule automatic retirement of credits at future date.\n\n## Acceptance Criteria\n- [ ] Schedule UI in dashboard\n- [ ] Recurring or one-time options\n- [ ] Confirmation email sent\n- [ ] Status tracked in history\n- [ ] Cancellation allowed before execution\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-yjiuu8rar",
+    "labels": [
+      "feature",
+      "frontend",
+      "automation"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Feature: Automated credit retirement scheduling",
+    "body": "## Description\nSchedule automatic retirement of credits at future date.\n\n## Acceptance Criteria\n- [ ] Schedule UI in dashboard\n- [ ] Recurring or one-time options\n- [ ] Confirmation email sent\n- [ ] Status tracked in history\n- [ ] Cancellation allowed before execution\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-c6yo5bdpf",
+    "labels": [
+      "feature",
+      "frontend",
+      "automation"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Feature: API webhook support for external integrations",
+    "body": "## Description\nSend webhooks on credit mint, transfer, and retirement events.\n\n## Acceptance Criteria\n- [ ] Webhook endpoint registration\n- [ ] Retry logic (3x with backoff)\n- [ ] Webhook signature verification\n- [ ] Event filtering options\n- [ ] Dashboard to manage webhooks\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-dczdnvds0",
+    "labels": [
+      "feature",
+      "backend",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Feature: API webhook support for external integrations",
+    "body": "## Description\nSend webhooks on credit mint, transfer, and retirement events.\n\n## Acceptance Criteria\n- [ ] Webhook endpoint registration\n- [ ] Retry logic (3x with backoff)\n- [ ] Webhook signature verification\n- [ ] Event filtering options\n- [ ] Dashboard to manage webhooks\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-vncklmt8u",
+    "labels": [
+      "feature",
+      "backend",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Feature: API webhook support for external integrations",
+    "body": "## Description\nSend webhooks on credit mint, transfer, and retirement events.\n\n## Acceptance Criteria\n- [ ] Webhook endpoint registration\n- [ ] Retry logic (3x with backoff)\n- [ ] Webhook signature verification\n- [ ] Event filtering options\n- [ ] Dashboard to manage webhooks\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-u3y9ivn95",
+    "labels": [
+      "feature",
+      "backend",
+      "integration"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Feature: Credit batch splitting for fractional ownership",
+    "body": "## Description\nAllow splitting credit batches for shared ownership.\n\n## Acceptance Criteria\n- [ ] Split function in contract\n- [ ] Proportional ownership tracking\n- [ ] Shared retirement possible\n- [ ] Tests for split/merge scenarios\n- [ ] Frontend UI for splitting\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-gvijomfqv",
+    "labels": [
+      "feature",
+      "smart-contracts",
+      "marketplace"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Enhance: Feature: Credit batch splitting for fractional ownership",
+    "body": "## Description\nAllow splitting credit batches for shared ownership.\n\n## Acceptance Criteria\n- [ ] Split function in contract\n- [ ] Proportional ownership tracking\n- [ ] Shared retirement possible\n- [ ] Tests for split/merge scenarios\n- [ ] Frontend UI for splitting\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-dq85l4ui4",
+    "labels": [
+      "feature",
+      "smart-contracts",
+      "marketplace"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Optimize: Feature: Credit batch splitting for fractional ownership",
+    "body": "## Description\nAllow splitting credit batches for shared ownership.\n\n## Acceptance Criteria\n- [ ] Split function in contract\n- [ ] Proportional ownership tracking\n- [ ] Shared retirement possible\n- [ ] Tests for split/merge scenarios\n- [ ] Frontend UI for splitting\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-mqmpk5irx",
+    "labels": [
+      "feature",
+      "smart-contracts",
+      "marketplace"
+    ],
+    "complexity": "high"
+  },
+  {
+    "title": "Improve: Feature: Historical price analytics and forecasting",
+    "body": "## Description\nTrack historical prices and provide trend analysis and forecasts.\n\n## Acceptance Criteria\n- [ ] Price history stored (hourly, daily)\n- [ ] Charts with SMA/EMA trends\n- [ ] Volatility metrics calculated\n- [ ] Simple forecasting model\n- [ ] API for historical data\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-txyo3smfm",
+    "labels": [
+      "feature",
+      "analytics",
+      "backend"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Feature: Historical price analytics and forecasting",
+    "body": "## Description\nTrack historical prices and provide trend analysis and forecasts.\n\n## Acceptance Criteria\n- [ ] Price history stored (hourly, daily)\n- [ ] Charts with SMA/EMA trends\n- [ ] Volatility metrics calculated\n- [ ] Simple forecasting model\n- [ ] API for historical data\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-roqhw9hao",
+    "labels": [
+      "feature",
+      "analytics",
+      "backend"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Feature: Historical price analytics and forecasting",
+    "body": "## Description\nTrack historical prices and provide trend analysis and forecasts.\n\n## Acceptance Criteria\n- [ ] Price history stored (hourly, daily)\n- [ ] Charts with SMA/EMA trends\n- [ ] Volatility metrics calculated\n- [ ] Simple forecasting model\n- [ ] API for historical data\n\n---\n**Category**: Features\n**Issue ID**: 1785011973706-n2f1l3iro",
+    "labels": [
+      "feature",
+      "analytics",
+      "backend"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Refactor: Extract authentication logic into reusable module",
+    "body": "## Description\nConsolidate JWT, OAuth, and role-based auth into single module.\n\n## Acceptance Criteria\n- [ ] New auth module created\n- [ ] All routes updated to use module\n- [ ] 100% of auth logic covered\n- [ ] Tests pass\n- [ ] Documentation updated\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-4kaczt0t6",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Refactor: Extract authentication logic into reusable module",
+    "body": "## Description\nConsolidate JWT, OAuth, and role-based auth into single module.\n\n## Acceptance Criteria\n- [ ] New auth module created\n- [ ] All routes updated to use module\n- [ ] 100% of auth logic covered\n- [ ] Tests pass\n- [ ] Documentation updated\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-mgxlv24pf",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Refactor: Extract authentication logic into reusable module",
+    "body": "## Description\nConsolidate JWT, OAuth, and role-based auth into single module.\n\n## Acceptance Criteria\n- [ ] New auth module created\n- [ ] All routes updated to use module\n- [ ] 100% of auth logic covered\n- [ ] Tests pass\n- [ ] Documentation updated\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-245zvf942",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Refactor: Extract authentication logic into reusable module",
+    "body": "## Description\nConsolidate JWT, OAuth, and role-based auth into single module.\n\n## Acceptance Criteria\n- [ ] New auth module created\n- [ ] All routes updated to use module\n- [ ] 100% of auth logic covered\n- [ ] Tests pass\n- [ ] Documentation updated\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-3wo1br8ru",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Refactor: Extract authentication logic into reusable module",
+    "body": "## Description\nConsolidate JWT, OAuth, and role-based auth into single module.\n\n## Acceptance Criteria\n- [ ] New auth module created\n- [ ] All routes updated to use module\n- [ ] 100% of auth logic covered\n- [ ] Tests pass\n- [ ] Documentation updated\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-c8ft1zm1e",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Improve: Refactor: Consolidate data validation into schema layer",
+    "body": "## Description\nUse Zod/Joi for consistent validation across backend.\n\n## Acceptance Criteria\n- [ ] Schemas defined for all DTOs\n- [ ] Validation middleware applied\n- [ ] Error messages standardized\n- [ ] Tests for validation\n- [ ] Old validation removed\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-p6bxt6gwg",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Enhance: Refactor: Consolidate data validation into schema layer",
+    "body": "## Description\nUse Zod/Joi for consistent validation across backend.\n\n## Acceptance Criteria\n- [ ] Schemas defined for all DTOs\n- [ ] Validation middleware applied\n- [ ] Error messages standardized\n- [ ] Tests for validation\n- [ ] Old validation removed\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-ho23nxcwm",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Optimize: Refactor: Consolidate data validation into schema layer",
+    "body": "## Description\nUse Zod/Joi for consistent validation across backend.\n\n## Acceptance Criteria\n- [ ] Schemas defined for all DTOs\n- [ ] Validation middleware applied\n- [ ] Error messages standardized\n- [ ] Tests for validation\n- [ ] Old validation removed\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-a22orfi4z",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Refactor: Refactor: Consolidate data validation into schema layer",
+    "body": "## Description\nUse Zod/Joi for consistent validation across backend.\n\n## Acceptance Criteria\n- [ ] Schemas defined for all DTOs\n- [ ] Validation middleware applied\n- [ ] Error messages standardized\n- [ ] Tests for validation\n- [ ] Old validation removed\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-exvfhj1p0",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  },
+  {
+    "title": "Review: Refactor: Consolidate data validation into schema layer",
+    "body": "## Description\nUse Zod/Joi for consistent validation across backend.\n\n## Acceptance Criteria\n- [ ] Schemas defined for all DTOs\n- [ ] Validation middleware applied\n- [ ] Error messages standardized\n- [ ] Tests for validation\n- [ ] Old validation removed\n\n---\n**Category**: Refactoring\n**Issue ID**: 1785011973706-fpkqrqeqw",
+    "labels": [
+      "refactoring",
+      "code-quality"
+    ],
+    "complexity": "medium"
+  }
+]
